@@ -57,3 +57,5 @@ If you discover a potential security issue in this project we ask that you notif
 ## Licensing
 
 See the [LICENSE](LICENSE) file for our project's licensing. We will ask you to confirm the licensing of your contribution.
+
+The data inside [paper_data][./paper_data] have licenses of their own, which overrides the project level license for that particular folder. More information about data licenses can found in [this README.md](./paper_data/README.md) file.
