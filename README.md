@@ -1,4 +1,6 @@
-# Multilingual Robustness to Noise
+# Multilingual Robust Constrastive Pretraining
+
+This code is released as part of our EACL paper on Robustification of Multilingual Language Models to Real-world Noise with Robust Contrastive Pretraining (official link coming up).
 
 ## Citation
 
@@ -16,12 +18,12 @@ If you use code/data in this repository, you will have to cite the following wor
 
 ## Dependencies
 
-A [conda_env.yml](./conda_env.yml) can be found here (depending on the code you run, you may need additional dependencies).
+A [conda\_env.yml](./conda_env.yml) can be found here (depending on the code you run, you may need additional dependencies).
 
 ## LICENSES
-The code base is build on the shoulder of other code-bases. Licenses for these code bases can be found inside [/THIRD_PARTY_LICENSES.md](./THIRD_PARTY_LICENSES.md). And amendment made to the code is licenses as per [LICENSE](./LICENSE).
+The code base is build on the shoulder of other code-bases. Licenses for these code bases can be found inside [THIRD\_PARTY\_LICENSES.md](./THIRD_PARTY_LICENSES.md). And amendment made to the code is licenses as per [LICENSE](./LICENSE).
 
-The data inside [paper_data][./paper_data] have licenses of their own. More information about it can found in [this README.md](./paper_data/README.md) file.
+The data inside [paper\_data][./paper_data] have licenses of their own. More information about it can found in [this README.md](./paper_data/README.md) file.
 
 ## Training & Evaluation
 

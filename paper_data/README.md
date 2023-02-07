@@ -1,5 +1,4 @@
-Due to licensing restrictions, we cannot only the multilingual test set as part of this code base.
-We do pointe the users to the locations from where the original training, dev, and test sets (whenever available) can be downloaded.
+Due to licensing restrictions, we cannot provide the original multilingual test data as part of this code base, but we highlight below links from where they can be obtained.
 
 - ATIS - [Original Data](https://github.com/howl-anderson/ATIS_dataset)
 - MultiATIS++ - [Original Data](https://catalog.ldc.upenn.edu/LDC2021T04)
