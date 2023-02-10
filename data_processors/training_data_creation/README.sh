@@ -1,6 +1,6 @@
 The corpus have to be present as per the following directory structure:
-```
-.
+
+```txt
 - corpus
   - github
     - github-typo-corpus.v1.0.0.jsonl
