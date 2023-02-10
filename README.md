@@ -23,7 +23,7 @@ A [conda\_env.yml](./conda_env.yml) can be found here (depending on the code you
 ## LICENSES
 The code base is build on the shoulder of other code-bases. Licenses for these code bases can be found inside [THIRD\_PARTY\_LICENSES.md](./THIRD_PARTY_LICENSES.md). And amendment made to the code is licenses as per [LICENSE](./LICENSE).
 
-The data inside [paper\_data][./paper_data] have licenses of their own. More information about it can found in [this README.md](./paper_data/README.md) file.
+The data inside [paper\_data](./paper_data) have licenses of their own. More information about it can found in [this README.md](./paper_data/README.md) file.
 
 ## Training & Evaluation
 
